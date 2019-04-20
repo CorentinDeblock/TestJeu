@@ -30,4 +30,4 @@ Cependant tout le reste fonctionne.</br>
 
 J'éspère que vous arriverez a finir le jeu ;).</br></br>
 
-***PS: Clavier = mode hard.***
+***PS: Clavier = mode hard et Alt-f4 pour quitté***
