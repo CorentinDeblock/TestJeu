@@ -1,6 +1,6 @@
 # Petit jeu pas fini fait sur unity
 </br></br>
-Le jeu s'appelle cube run, c'est un petit ou on controlle un cube et on doit arriver a la fin.</br>
+Le jeu s'appelle cube run, c'est un petit jeu ou on controlle un cube et on doit arriver a la fin.</br>
 
 Le ***bouton Load*** ne fonctionne pas.</br>
 Le ***menu pause*** n'est pas **interactif.**</br>
