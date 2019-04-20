@@ -9,23 +9,23 @@ Cependant tout le reste fonctionne.</br>
 
 # Les controlle pour le clavier sont:
 </br></br>
-###### D/Flèche de droite pour aller a droite
+**D/Flèche de droite pour aller a droite**
 </br>
-###### Q/Flèche de gauche pour aller a gauche
+**Q/Flèche de gauche pour aller a gauche**
 </br>
-###### Espace pour sauter
+**Espace pour sauter**
 </br>
-######R pour revenir au debut du niveau
+**R pour revenir au debut du niveau**
 </br>
 
 # Les controlle pour la manette sont:
 </br></br>
 
-###### Joystick de gauche pour ce déplacer
+**Joystick de gauche pour ce déplacer**
 </br>
-###### A/Croix pour sauter
+**A ou Croix pour sauter**
 </br>
-###### Le button ps/home pour revenir au début du niveau (je sais c'est le pire bouton)
+**Le button ps ou home pour revenir au début du niveau (je sais c'est le pire bouton)**
 </br>
 
 J'éspère que vous arriverez a finir le jeu ;).</br></br>
