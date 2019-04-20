@@ -25,7 +25,7 @@ Cependant tout le reste fonctionne.</br>
 </br>
 **A ou Croix pour sauter**
 </br>
-**Le button ps ou home pour revenir au début du niveau (je sais c'est le pire bouton)**
+**Le button select ou back pour revenir au début du niveau**
 </br>
 
 J'éspère que vous arriverez a finir le jeu ;).</br></br>
