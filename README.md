@@ -1,33 +1,5 @@
-# Petit jeu pas fini fait sur unity
-</br></br>
-Le jeu s'appelle cube run, c'est un petit jeu ou on controlle un cube et on doit arriver a la fin.</br>
+# Fichier source du jeu
 
-Le ***bouton Load*** ne fonctionne pas.</br>
-Le ***menu pause*** n'est pas **interactif.**</br>
+***Les fichier sources du jeu cube run pour que vous puissez voir ce que j'ai fait mais dans unity***
 
-Cependant tout le reste fonctionne.</br>
-
-# Les controlle pour le clavier sont:
-</br></br>
-**D/Flèche de droite pour aller a droite**
-</br>
-**Q/Flèche de gauche pour aller a gauche**
-</br>
-**Espace pour sauter**
-</br>
-**R pour revenir au debut du niveau**
-</br>
-
-# Les controlle pour la manette sont:
-</br></br>
-
-**Joystick de gauche pour ce déplacer**
-</br>
-**A ou Croix pour sauter**
-</br>
-**Le button select ou back pour revenir au début du niveau**
-</br>
-
-J'éspère que vous arriverez a finir le jeu ;).</br></br>
-
-***PS: Clavier = mode hard et Alt-f4 pour quitté***
+Si vous voulez ne voir que le code aller dans Source/Assets/Scripts et tout les fichier c# sont la :)
